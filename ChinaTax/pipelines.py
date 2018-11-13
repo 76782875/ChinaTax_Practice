@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 文件名称: pipelines.py
-# 作者: FengJianBo
+# 作者: JianNoo
 # 创建日期: 2018-10-06
 # 功能描述: 将数据异步存储进数据库
 # 网址: 12366.chinatax.gov.cn/BsdtAllBLH_bsdtMain.do#

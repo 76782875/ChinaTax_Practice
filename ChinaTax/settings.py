@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 文件名称: items.py
-# 作者: FengJianBo
+# 作者: JianNoo
 # 创建日期: 2018-10-06
 # 功能描述: 定制Scrapy组件的方法。可以控制包括核心(core)，插件(extension)，pipeline及spider组件。
 # 网址: 12366.chinatax.gov.cn/BsdtAllBLH_bsdtMain.do#
